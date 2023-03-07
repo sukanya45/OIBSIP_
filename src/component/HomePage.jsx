@@ -25,7 +25,7 @@ const HomePage = () => {
             </div>
 
             <div>
-                <img src={HeroImage} alt="My Profile" className="  rounded-2xl mx-auto w-2/3 md:full"/>
+                <img src={HeroImage} alt="My Profile" className="  rounded-2xl mx-auto w-full bg-transperant md:full"/>
             </div>
         </div>
     </div>
