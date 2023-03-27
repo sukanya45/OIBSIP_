@@ -1,12 +1,12 @@
 import React from 'react'
-import icon1 from '../assets/icon5.png'
-import icon2 from '../assets/icon5.png'
-import icon3 from '../assets/icon5.png'
-import icon4 from '../assets/icon5.png'
+import icon1 from '../assets/icon1.png'
+import icon2 from '../assets/icon2.png'
+import icon3 from '../assets/icon3.jpg'
+import icon4 from '../assets/icon4.png'
 import icon5 from '../assets/icon5.png'
-import icon6 from '../assets/icon5.png'
-import icon7 from '../assets/icon5.png'
-import icon8 from '../assets/icon5.png'
+import icon6 from '../assets/icon6.png'
+import icon9 from '../assets/icon9.png'
+import icon8 from '../assets/icon8.png'
 
 const Experience = () => {
 
@@ -21,7 +21,7 @@ const Experience = () => {
         {
             id:2,
             src:icon2,
-            title:"Css"
+            title:"CSS"
            
 
         },
@@ -49,13 +49,13 @@ const Experience = () => {
             title:"MongoDb"
 
         }, {
-            id:7,
-            src:icon7,
+            id:8,
+            src:icon8,
             title:"Node Js"
 
         }, {
-            id:8,
-            src:icon8,
+            id:9,
+            src:icon9,
             title:"Github"
 
         }
